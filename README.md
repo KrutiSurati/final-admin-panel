@@ -54,10 +54,15 @@ To design and develop a **server-side rendered admin dashboard** that enables se
    ```bash
    git clone https://github.com/KrutiSurati/final-admin-panel.git
 2. Install dependencies:
-   npm install
+    ```bash
+    npm install
 3. Create a .env.local file:
-   MONGODB_URI=your_mongodb_connection_string
+   ```bash
+   MONGODB_URI=mongodb+srv://suratikr_db_user:Kruti@surati12@cluster1.iaen5rq.mongodb.net/ecommerce
 4. Run the development server:
+   ```bash
    npm run dev
+
+
 
 
