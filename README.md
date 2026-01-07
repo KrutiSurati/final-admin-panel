@@ -58,7 +58,7 @@ To design and develop a **server-side rendered admin dashboard** that enables se
     npm install
 3. Create a .env.local file:
    ```bash
-   MONGODB_URI=mongodb+srv://suratikr_db_user:Kruti@surati12@cluster1.iaen5rq.mongodb.net/ecommerce
+   MONGODB_URI=mongodb+srv://suratikr_db_user:Kruti%40surati12@cluster1.iaen5rq.mongodb.net/ecommerce
 4. Run the development server:
    ```bash
    npm run dev
